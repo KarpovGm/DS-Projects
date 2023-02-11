@@ -1,15 +1,15 @@
 # Skillfactory Проект-2: Анализ вакансий из HeadHunter - PostgresSQL 
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/KarpovGm/.../README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/KarpovGm/.../README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/.../README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/KarpovGm/.../README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/KarpovGm/.../README.md#Результат)    
-[6. Выводы](https://github.com/KarpovGm/.../README.md#Выводы) 
+[1. Описание проекта](https://github.com/KarpovGm/DS-Projects/blob/main/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/KarpovGm/DS-Projects/blob/main/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/KarpovGm/DS-Projects/blob/main/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/KarpovGm/DS-Projects/blob/main/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/KarpovGm/DS-Projects/blob/main/README.md#Результат)    
+[6. Выводы](https://github.com/KarpovGm/DS-Projects/blob/main/README.md#Выводы) 
 
 ### Описание проекта    
-Это мой второй Data Science проек, в нем я Анализирую вакансии с сайта HeadHunter с помощью языка SQL. 
+Это мой второй Data Science проект, в нем я Анализирую вакансии с сайта HeadHunter с помощью языка SQL. 
 
 :arrow_up:[к оглавлению](_)
 
